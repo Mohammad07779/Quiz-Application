@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <!-- Landing Page -->
+    <section class="landing-page">
+        <div class="wrapper">
+            <div class="flex-content">
+                <h1 class="vacation-heading">Welcome To Master Quiz</h1>
+                <a href="#quiz-packages" class="btn">Start Now</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Header Section -->
+    <header class="quiz-header" id="quiz-header">
+        <h1 class="heading">Master Quiz</h1>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="main-nav">
+        <a href="#">Home</a>
+        <a href="#quiz-packages">Quiz</a>
+        <a href="#Performer">Top Performers</a>
+
+        <!-- Dropdown Wrapper -->
+        <div class="dropdown">
+            <a href="#" class="dropbtn">Login</a>
+            <div class="dropdown-content">
+                <a href="Login.html">User</a>
+                <a href="AdminLogin.html">Admin</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Quiz Section -->
+    <section class="quiz-packages-section" id="quiz-packages">
+        <h1 class="quiz-heading">Coding Quiz</h1>
+        <p class="quiz-text">Test your coding knowledge with quizzes designed for each language...</p>
+
+        <div class="package-wrapper">
+            <div class="package-card">
+                <img src="./images/java.jpg" alt="" />
+                <p class="card-heading">Java</p>
+                <p class="card-text">Challenge your understanding of Java fundamentals...</p>
+                <button class="btn" onclick="startQuiz('java')">Take Quiz</button>
+            </div>
+            <div class="package-card">
+                <img src="./images/python.jpg" alt="" />
+                <p class="card-heading">Python</p>
+                <p class="card-text">Dive into Python basics...</p>
+                <button class="btn" onclick="startQuiz('python')">Take Quiz</button>
+            </div>
+            <div class="package-card">
+                <img src="./images/js.png" alt="" />
+                <p class="card-heading">JavaScript</p>
+                <p class="card-text">Test your skills in JavaScript...</p>
+                <button class="btn" onclick="startQuiz('javascript')">Take Quiz</button>
+            </div>
+            <div class="package-card">
+                <img src="./images/Html.png" alt="" />
+                <p class="card-heading">HTML</p>
+                <p class="card-text">Assess your knowledge of HTML structure...</p>
+                <button class="btn" onclick="startQuiz('html')">Take Quiz</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Performer Section -->
+    <section class="Performer-quiz-section" id="Performer">
+        <h1 class="quiz-heading">Top Performer</h1>
+        <p class="quiz-text">Our top performers are standout individuals...</p>
+        <div class="image-card">
+            <img src="./images/m1.jpeg" alt="" />
+            <img src="./images/m2.jpg" alt="" />
+            <img src="./images/m3.jpg" alt="" />
+            <img src="./images/m4.jpg" alt="" />
+            <img src="./images/m5.jpg" alt="" />
+            <img src="./images/m6.jpg" alt="" />
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer-section">
+        <small>All Rights Reserved</small><br />
+        <small>Developed & Maintained By Mohammad Marediya</small>
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
