@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0a43d07-2520-47fa-8a88-21a7dc22aed7" name="Changes" comment="Added backend folder to project">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/.idea/quix-app frontEnd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/Registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/Registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/html-quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/html-quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/Html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/compiler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/dev.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/m1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/m1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/m2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/m3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/m4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/m5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/m6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/python.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/react.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/images/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/java-quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/java-quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/javaScript-quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/javaScript-quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/python-quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/python-quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/quiz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quix-app frontEnd/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mohammad07779&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mohammad07779/Quiz-Application.git&quot;,
+    &quot;accountId&quot;: &quot;07a8fa72-2169-4926-b01d-11325dd33c59&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2xD8vyv3qon9tPTvcQrRrUIbLGa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Merging master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Easy Developer Projects/Full Stack Projects/Quiz-Application/quiz-app",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0a43d07-2520-47fa-8a88-21a7dc22aed7" name="Changes" comment="" />
+      <created>1747461518255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747461518255</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added backend folder to project">
+      <option name="closed" value="true" />
+      <created>1747463711927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747463711927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added backend folder to project">
+      <option name="closed" value="true" />
+      <created>1747484417311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747484417311</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ensure quiz-app folder is tracked by Git" />
+    <MESSAGE value="Added backend folder to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added backend folder to project" />
+  </component>
+</project>
